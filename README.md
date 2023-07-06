@@ -2,7 +2,7 @@
 
 <h2>Olá galerinha!!😃</h2> 
 
-<h3>Esse é mais um projetinho responsivo que desenvolvi a partir dos conhecimentos adquiridos no <a href="http//www.rodolfomore.com.br">DevClub 🥑</a>  </h3>
+<h3>Esse é mais um projetinho responsivo que desenvolvi a partir dos conhecimentos adquiridos no <a href="http//www.rodolfomore.com.br">DevClub 🥑</a> </h3>
 <br>
 <br>
 
@@ -25,11 +25,11 @@
 <br>
 <h2>INFORMAÇÕES:</h2>
 <br>
-<p> ◉ O projeto se deu através das tecnologias HTML e CSS, com a aplicação responsiva para que a interface se ajuste aos formatos desktop e mobile, facilitando dessa forma, sua visualização em dispositivos com telas de diferentes tamanhos. </p>
+<p> ◉ Desenovolvi o projeto com as tecnologias <strong>HTML</strong> e <strong>CSS</strong> e fiz aplicação da <strong><i>responsividade</i></strong> para que o design se ajustesse a dispositivos de diferente tamanhos de tela, tornando possível o acesso nos formatos desktop e mobile. </p>
 <br>
 <br>
 <h2>EXPERIÊNCIA:</h2>
 <br> 
-<p> ◉ Através da responsividade, o usuário tem a liberdade e facilidade de acessar e visualizar o projeto nas telas que desejar, pois ele se adapta ao tamanho da tela do dispositivo do qual está sendo acessado, possibilitando ao usuário uma experiência fácil, agradável e intuitiva. </p>
+<p> ◉ A partir desta tecnologia, é possível fornecer uma experiência multitelas, uma vez que os usuários têm toda a facilidade de visualizar a interface através do dispotivo que desejar, já que ela se adapta intantaneamente, a tamanhos de telas diferentes e fornece acesso simples e agradável. </p>
 
 
