@@ -1,4 +1,4 @@
-# PROJETO-RESPONSIVO-CSS
+# PROJETO-EASY-SHOPPING
 
 <h2>Olá galerinha!!😃</h2> 
 
