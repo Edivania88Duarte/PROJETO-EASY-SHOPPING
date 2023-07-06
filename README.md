@@ -6,18 +6,20 @@
 <br>
 <br>
 
-<h4> VERSÃO MOBILE E DESKTOP </h4>
-  
+<h4> 🚀 VERSÃO MOBILE E DESKTOP </h4>
 
+![image](https://github.com/Edivania88Duarte/PROJETO-RESPONSIVO---CSS/assets/120994730/c422d7fa-b251-4cb0-a3f7-2ff4998bd03e)
 
 <br>
+
+<h4> 🚀 VERSÃO DESKTOP </h4>
+
+![image](https://github.com/Edivania88Duarte/PROJETO-RESPONSIVO---CSS/assets/120994730/c5c4559f-cd5e-47af-9703-2b244cf00734)
+
 <br>
 
-<h4> VERSÃO DESKTOP </h4>
-![image](https://github.com/Edivania88Duarte/PROJETO-RESPONSIVO---CSS/assets/120994730/d0389c62-0730-43b5-93d5-8cfd567ec5b8)
+<h4> 🚀 VERSÃO MOBILE </h4>
 
-<br> 
-<br>
+![image](https://github.com/Edivania88Duarte/PROJETO-RESPONSIVO---CSS/assets/120994730/c254a4a1-b043-4f73-a660-986691fdd514)
 
-<h4> VERSÃO MOBILE </h4>
 
