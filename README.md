@@ -30,6 +30,6 @@
 <br>
 <h2>EXPERIÊNCIA:</h2>
 <br> 
-<p> ◉ A partir desta tecnologia, é possível fornecer uma experiência multitelas, uma vez que os usuários têm toda a facilidade de visualizar a interface através do dispotivo que desejar, já que ela se adapta intantaneamente, a tamanhos de telas diferentes e fornece acesso simples e agradável. </p>
+<p> ◉ A partir desta tecnologia, é possível fornecer uma experiência multitelas, uma vez que os usuários têm toda a facilidade de visualizar a interface através do dispotivo que desejarem, tendo em vista que ela se adapta intantaneamente, a tamanhos de telas diferentes e fornece acesso simples e agradável. </p>
 
 
