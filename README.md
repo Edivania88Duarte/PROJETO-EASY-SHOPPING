@@ -22,4 +22,14 @@
 
 ![image](https://github.com/Edivania88Duarte/PROJETO-RESPONSIVO---CSS/assets/120994730/c254a4a1-b043-4f73-a660-986691fdd514)
 
+<br>
+<h2>INFORMAÇÕES:</h2>
+<br>
+<p> ◉ O projeto se deu através das tecnologias HTML e CSS, com a aplicação responsiva para que a interface se ajuste aos formatos desktop e mobile, facilitando dessa forma, sua visualização em dispositivos com telas de diferentes tamanhos. </p>
+<br>
+<br>
+<h2>EXPERIÊNCIA:</h2>
+<br> 
+<p> ◉ Através da responsividade, o usuário tem a liberdade e facilidade de acessar e visualizar o projeto nas telas que desejar, pois ele se adapta ao tamanho da tela do dispositivo do qual está sendo acessado, possibilitando ao usuário uma experiência fácil, agradável e intuitiva. </p>
+
 
