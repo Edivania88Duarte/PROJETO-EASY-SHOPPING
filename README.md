@@ -2,7 +2,7 @@
 
 <h2>Olá galerinha!!😃</h2> 
 
-<h3>Esse é mais um projetinho responsivo que desenvolvi a partir dos conhecimentos adquiridos no <a href="http//www.rodolfomore.com.br">DevClub 🥑</a> </h3>
+<h3>Esse é mais um projetinho responsivo que desenvolvi a partir dos conhecimentos adquiridos no <a href="http://rodolfomori.com.br/devclub">DevClub 🥑</a> </h3>
 <br>
 <br>
 
