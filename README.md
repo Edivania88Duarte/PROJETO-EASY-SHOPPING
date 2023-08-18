@@ -25,7 +25,7 @@
 <br>
 <h2>INFORMAÇÕES:</h2>
 <br>
-<p> ◉ Desenovolvi o projeto com as tecnologias <strong>HTML</strong> e <strong>CSS</strong> e fiz aplicação da <strong><i>responsividade</i></strong> para que o design se ajustesse a dispositivos de diferente tamanhos de tela, tornando possível o acesso nos formatos desktop e mobile. </p>
+<p> ◉ Desenvolvi o projeto com as tecnologias <strong>HTML</strong> e <strong>CSS</strong> e fiz aplicação da <strong><i>responsividade</i></strong> para que o design se ajustasse a dispositivos de diferente tamanhos de tela, tornando possível o acesso nos formatos desktop e mobile. </p>
 <br>
 <br>
 <h2>EXPERIÊNCIA:</h2>
